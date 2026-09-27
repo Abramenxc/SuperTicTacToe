@@ -2,7 +2,7 @@
 
 # Building
   ## Prerequisites
-  - A c++17 or later capable compiler
+  - A c++17 (or newer) capable compiler
   - [wxWidgets](https://wxwidgets.org/)
 
   ## Steps
